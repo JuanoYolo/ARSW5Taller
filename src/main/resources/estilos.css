@@ -1,0 +1,17 @@
+button {
+    font-size: 30px;
+    border-radius: 12px;
+    background-color: #3B5BFF;
+    color: white;
+}
+
+button:hover {
+    background-color: #D9FFFF; /* Green */
+    color: black;
+}
+
+.Probar {
+    width: 175px;
+    height: 30px;
+}
+
